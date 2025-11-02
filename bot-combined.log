@@ -1,0 +1,324 @@
+2025-10-31T16:06:34.000Z [INFO]: User rate limit initialized
+2025-10-31T16:06:34.074Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T16:06:34.075Z [INFO]: User state initialized
+2025-10-31T16:06:34.365Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T16:06:34.375Z [INFO]: Server berjalan di port 50123
+2025-10-31T16:06:34.608Z [INFO]: Terhubung ke SQLite3
+2025-10-31T16:06:35.710Z [INFO]: Start or Menu command received
+2025-10-31T16:06:36.694Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:06:37.128Z [INFO]: User ID 8372210994 berhasil disimpan sebagai member
+2025-10-31T16:06:41.146Z [INFO]: User rate limit initialized
+2025-10-31T16:06:41.173Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T16:06:41.175Z [INFO]: User state initialized
+2025-10-31T16:06:41.271Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T16:06:41.285Z [INFO]: Server berjalan di port 50123
+2025-10-31T16:06:41.389Z [INFO]: Terhubung ke SQLite3
+2025-10-31T16:06:57.094Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:07:05.398Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:07:07.984Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:07:08.580Z [ERROR]: Error saat memulai bot: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-10-31T16:10:54.363Z [INFO]: User rate limit initialized
+2025-10-31T16:10:54.388Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T16:10:54.389Z [INFO]: User state initialized
+2025-10-31T16:10:54.446Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T16:10:54.455Z [INFO]: Server berjalan di port 50123
+2025-10-31T16:10:54.543Z [INFO]: Terhubung ke SQLite3
+2025-10-31T16:10:59.767Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:11:00.480Z [ERROR]: Error saat memulai bot: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-10-31T16:28:01.591Z [INFO]: User rate limit initialized
+2025-10-31T16:28:01.620Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T16:28:01.621Z [INFO]: User state initialized
+2025-10-31T16:28:01.700Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T16:28:01.710Z [INFO]: Server berjalan di port 50123
+2025-10-31T16:28:01.823Z [INFO]: Terhubung ke SQLite3
+2025-10-31T16:28:02.776Z [INFO]: Start or Menu command received
+2025-10-31T16:28:02.959Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:28:12.788Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:28:17.154Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:28:17.904Z [INFO]: Start or Menu command received
+2025-10-31T16:28:18.119Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:28:20.680Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-10-31T16:32:28.818Z [INFO]: Start or Menu command received
+2025-10-31T16:32:29.015Z [ERROR]: Error checking channel membership for 8118068872 in @tunnelftdor:
+2025-10-31T16:46:03.745Z [INFO]: User rate limit initialized
+2025-10-31T16:46:03.796Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T16:46:03.798Z [INFO]: User state initialized
+2025-10-31T16:46:03.898Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T16:46:03.908Z [INFO]: Server berjalan di port 50123
+2025-10-31T16:46:04.072Z [INFO]: Terhubung ke SQLite3
+2025-10-31T16:46:06.754Z [INFO]: Start or Menu command received
+2025-10-31T16:46:50.905Z [INFO]: User rate limit initialized
+2025-10-31T16:46:50.930Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T16:46:50.933Z [INFO]: User state initialized
+2025-10-31T16:46:51.008Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T16:46:51.018Z [INFO]: Server berjalan di port 50123
+2025-10-31T16:46:51.155Z [INFO]: Terhubung ke SQLite3
+2025-10-31T16:46:55.418Z [INFO]: Start or Menu command received
+2025-10-31T17:13:18.481Z [INFO]: Account create transaction recorded for user 8372210994, type: vmess
+2025-10-31T18:16:23.709Z [INFO]: Account create transaction recorded for user 8372210994, type: vmess
+2025-10-31T19:14:24.542Z [INFO]: Start or Menu command received
+2025-10-31T19:14:25.389Z [INFO]: User ID 408864570 berhasil disimpan sebagai member
+2025-10-31T19:23:02.139Z [INFO]: Start or Menu command received
+2025-10-31T19:23:02.989Z [INFO]: User ID 6132965725 berhasil disimpan sebagai member
+2025-10-31T19:23:41.139Z [INFO]: Executing script: bash ./scripts/trialvmess.sh
+2025-10-31T19:24:37.680Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-10-31T20:00:00.027Z [INFO]: Mulai proses backup database harian...
+2025-10-31T20:00:01.823Z [INFO]: User rate limit initialized
+2025-10-31T20:00:01.864Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T20:00:01.867Z [INFO]: User state initialized
+2025-10-31T20:00:01.953Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T20:00:01.971Z [INFO]: Server berjalan di port 50123
+2025-10-31T20:00:02.194Z [INFO]: Terhubung ke SQLite3
+2025-10-31T20:04:27.183Z [INFO]: Start or Menu command received
+2025-10-31T20:12:03.324Z [INFO]: Start or Menu command received
+2025-10-31T20:12:04.181Z [INFO]: User ID 6329157945 berhasil disimpan sebagai member
+2025-10-31T20:33:42.924Z [INFO]: Start or Menu command received
+2025-10-31T20:34:15.239Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-10-31T22:00:25.623Z [INFO]: User rate limit initialized
+2025-10-31T22:00:25.733Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-10-31T22:00:25.735Z [INFO]: User state initialized
+2025-10-31T22:00:26.001Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-10-31T22:00:26.025Z [INFO]: Server berjalan di port 50123
+2025-10-31T22:00:26.263Z [INFO]: Terhubung ke SQLite3
+2025-10-31T22:29:14.099Z [INFO]: Start or Menu command received
+2025-10-31T22:29:14.850Z [INFO]: User ID 5374567864 berhasil disimpan sebagai member
+2025-10-31T23:06:04.496Z [INFO]: Start or Menu command received
+2025-10-31T23:06:05.281Z [INFO]: User ID 274582395 berhasil disimpan sebagai member
+2025-10-31T23:07:19.256Z [INFO]: Start or Menu command received
+2025-10-31T23:07:20.029Z [INFO]: User ID 2070696392 berhasil disimpan sebagai member
+2025-10-31T23:09:23.021Z [INFO]: Start or Menu command received
+2025-10-31T23:56:28.685Z [INFO]: Start or Menu command received
+2025-10-31T23:56:29.504Z [INFO]: User ID 5577822240 berhasil disimpan sebagai member
+2025-11-01T02:31:20.108Z [INFO]: Start or Menu command received
+2025-11-01T02:31:20.510Z [INFO]: User ID 7956595750 berhasil disimpan sebagai member
+2025-11-01T02:31:49.569Z [INFO]: Executing script: bash ./scripts/trialvmess.sh
+2025-11-01T05:26:36.437Z [INFO]: Start or Menu command received
+2025-11-01T05:27:05.345Z [INFO]: Start or Menu command received
+2025-11-01T05:47:35.971Z [INFO]: Start or Menu command received
+2025-11-01T05:47:36.897Z [INFO]: User ID 7900982878 berhasil disimpan sebagai member
+2025-11-01T06:06:07.152Z [INFO]: Start or Menu command received
+2025-11-01T06:06:07.950Z [INFO]: User ID 1228693867 berhasil disimpan sebagai member
+2025-11-01T07:20:20.645Z [ERROR]: Error saat memulai bot: Cannot read properties of undefined (reading 'id')
+2025-11-01T12:28:51.729Z [INFO]: User rate limit initialized
+2025-11-01T12:28:51.879Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T12:28:51.883Z [INFO]: User state initialized
+2025-11-01T12:28:52.322Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T12:28:52.358Z [INFO]: Server berjalan di port 50123
+2025-11-01T12:28:52.763Z [INFO]: Terhubung ke SQLite3
+2025-11-01T12:28:56.209Z [INFO]: Start or Menu command received
+2025-11-01T12:28:56.215Z [INFO]: Start or Menu command received
+2025-11-01T12:28:56.219Z [INFO]: Start or Menu command received
+2025-11-01T12:28:56.222Z [INFO]: Start or Menu command received
+2025-11-01T12:28:56.225Z [INFO]: Start or Menu command received
+2025-11-01T12:29:02.681Z [INFO]: User ID 8304865142 berhasil disimpan sebagai member
+2025-11-01T12:29:02.693Z [INFO]: User ID 7980141797 berhasil disimpan sebagai member
+2025-11-01T12:29:02.938Z [INFO]: User ID 7803540719 berhasil disimpan sebagai member
+2025-11-01T12:29:06.544Z [ERROR]: Error checking channel membership for 8372210994 in @tunnelftdor:
+2025-11-01T12:29:06.964Z [ERROR]: Error saat memulai bot: Cannot read properties of undefined (reading 'id')
+2025-11-01T12:30:15.051Z [INFO]: User rate limit initialized
+2025-11-01T12:30:15.092Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T12:30:15.096Z [INFO]: User state initialized
+2025-11-01T12:30:15.218Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T12:30:15.231Z [INFO]: Server berjalan di port 50123
+2025-11-01T12:30:15.539Z [INFO]: Terhubung ke SQLite3
+2025-11-01T12:30:19.719Z [ERROR]: Error saat memulai bot: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-01T12:44:26.321Z [INFO]: User rate limit initialized
+2025-11-01T12:44:26.379Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T12:44:26.381Z [INFO]: User state initialized
+2025-11-01T12:44:26.561Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T12:44:26.617Z [INFO]: Server berjalan di port 50123
+2025-11-01T12:44:26.814Z [INFO]: Terhubung ke SQLite3
+2025-11-01T12:44:27.084Z [ERROR]: Error saat memulai bot: request to https://api.telegram.org/bot7011657042:[REDACTED]/getMe failed, reason: 
+2025-11-01T12:46:50.507Z [INFO]: User rate limit initialized
+2025-11-01T12:46:50.546Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T12:46:50.549Z [INFO]: User state initialized
+2025-11-01T12:46:50.620Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T12:46:50.627Z [INFO]: Server berjalan di port 50123
+2025-11-01T12:46:50.844Z [INFO]: Terhubung ke SQLite3
+2025-11-01T12:46:52.377Z [INFO]: Start or Menu command received
+2025-11-01T12:46:52.405Z [INFO]: Start or Menu command received
+2025-11-01T12:46:52.918Z [WARN]: Failed to reply for rate limit for user 7975097461: 403: Forbidden: bot was blocked by the user
+2025-11-01T12:46:54.438Z [ERROR]: Error saat memulai bot: 403: Forbidden: bot was blocked by the user
+2025-11-01T12:51:39.998Z [INFO]: User rate limit initialized
+2025-11-01T12:51:40.110Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T12:51:40.114Z [INFO]: User state initialized
+2025-11-01T12:51:40.356Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T12:51:40.371Z [INFO]: Server berjalan di port 50123
+2025-11-01T12:51:40.537Z [INFO]: Terhubung ke SQLite3
+2025-11-01T12:51:46.624Z [INFO]: Start or Menu command received
+2025-11-01T12:51:46.635Z [INFO]: Start or Menu command received
+2025-11-01T12:51:56.225Z [INFO]: Start or Menu command received
+2025-11-01T12:53:46.346Z [INFO]: Start or Menu command received
+2025-11-01T12:53:49.026Z [INFO]: Start or Menu command received
+2025-11-01T13:16:49.556Z [INFO]: Start or Menu command received
+2025-11-01T13:32:04.608Z [INFO]: User rate limit initialized
+2025-11-01T13:32:04.639Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T13:32:04.641Z [INFO]: User state initialized
+2025-11-01T13:32:04.766Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T13:32:04.773Z [INFO]: Server berjalan di port 50123
+2025-11-01T13:32:04.900Z [INFO]: Terhubung ke SQLite3
+2025-11-01T14:16:28.014Z [INFO]: Start or Menu command received
+2025-11-01T15:53:26.296Z [INFO]: Start or Menu command received
+2025-11-01T15:53:27.181Z [INFO]: User ID 6809100247 berhasil disimpan sebagai member
+2025-11-01T15:54:21.583Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-01T15:58:05.293Z [INFO]: Start or Menu command received
+2025-11-01T15:58:05.486Z [INFO]: User ID 6812816008 berhasil disimpan sebagai member
+2025-11-01T15:58:10.796Z [INFO]: Start or Menu command received
+2025-11-01T15:58:11.782Z [INFO]: User ID 1339500427 berhasil disimpan sebagai member
+2025-11-01T16:46:38.298Z [INFO]: Start or Menu command received
+2025-11-01T16:46:39.243Z [INFO]: User ID 7649633746 berhasil disimpan sebagai member
+2025-11-01T16:47:20.553Z [INFO]: Start or Menu command received
+2025-11-01T16:47:21.473Z [INFO]: User ID 7778402764 berhasil disimpan sebagai member
+2025-11-01T16:48:14.814Z [INFO]: Start or Menu command received
+2025-11-01T16:48:15.013Z [INFO]: User ID 7686667939 berhasil disimpan sebagai member
+2025-11-01T16:50:57.505Z [INFO]: Start or Menu command received
+2025-11-01T16:50:58.577Z [INFO]: User ID 6840133455 berhasil disimpan sebagai member
+2025-11-01T16:52:20.758Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-01T16:52:47.165Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-01T16:55:47.832Z [INFO]: Start or Menu command received
+2025-11-01T16:55:48.759Z [INFO]: User ID 6919694249 berhasil disimpan sebagai member
+2025-11-01T17:02:11.554Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-01T17:50:06.467Z [INFO]: Start or Menu command received
+2025-11-01T17:50:07.383Z [INFO]: User ID 262030080 berhasil disimpan sebagai member
+2025-11-01T18:15:05.603Z [INFO]: Start or Menu command received
+2025-11-01T18:15:06.507Z [INFO]: User ID 6659321822 berhasil disimpan sebagai member
+2025-11-01T18:44:53.277Z [INFO]: Start or Menu command received
+2025-11-01T18:44:54.044Z [INFO]: User ID 6415330719 berhasil disimpan sebagai member
+2025-11-01T18:46:02.085Z [INFO]: Start or Menu command received
+2025-11-01T18:46:02.996Z [INFO]: User ID 8233857919 berhasil disimpan sebagai member
+2025-11-01T18:55:50.676Z [INFO]: Start or Menu command received
+2025-11-01T18:55:51.647Z [INFO]: User ID 7575211071 berhasil disimpan sebagai member
+2025-11-01T18:57:09.060Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-01T19:11:59.906Z [INFO]: Start or Menu command received
+2025-11-01T19:12:00.779Z [INFO]: User ID 803307590 berhasil disimpan sebagai member
+2025-11-01T19:51:06.717Z [INFO]: Start or Menu command received
+2025-11-01T19:51:07.681Z [INFO]: User ID 1777161608 berhasil disimpan sebagai member
+2025-11-01T19:51:47.136Z [INFO]: Executing script: bash ./scripts/trialvless.sh
+2025-11-01T19:51:47.709Z [WARN]: Script stderr for trialvless.sh: parse error: Invalid numeric literal at line 39, column 0
+
+2025-11-01T20:00:00.127Z [INFO]: Mulai proses backup database harian...
+2025-11-01T20:00:05.144Z [INFO]: User rate limit initialized
+2025-11-01T20:00:05.282Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T20:00:05.286Z [INFO]: User state initialized
+2025-11-01T20:00:05.474Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T20:00:05.489Z [INFO]: Server berjalan di port 50123
+2025-11-01T20:00:05.616Z [INFO]: Terhubung ke SQLite3
+2025-11-01T22:00:25.138Z [INFO]: User rate limit initialized
+2025-11-01T22:00:25.209Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-01T22:00:25.210Z [INFO]: User state initialized
+2025-11-01T22:00:25.431Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-01T22:00:25.449Z [INFO]: Server berjalan di port 50123
+2025-11-01T22:00:25.608Z [INFO]: Terhubung ke SQLite3
+2025-11-01T22:27:46.154Z [INFO]: Start or Menu command received
+2025-11-01T22:27:46.924Z [INFO]: User ID 1991243301 berhasil disimpan sebagai member
+2025-11-01T23:36:05.708Z [INFO]: Start or Menu command received
+2025-11-01T23:36:06.489Z [INFO]: User ID 7954613054 berhasil disimpan sebagai member
+2025-11-02T00:30:39.313Z [INFO]: Start or Menu command received
+2025-11-02T00:30:40.038Z [INFO]: User ID 7086433067 berhasil disimpan sebagai member
+2025-11-02T00:53:36.351Z [INFO]: Start or Menu command received
+2025-11-02T00:53:37.128Z [INFO]: User ID 5689673004 berhasil disimpan sebagai member
+2025-11-02T01:29:29.299Z [INFO]: Start or Menu command received
+2025-11-02T01:30:02.628Z [INFO]: Executing script: bash ./scripts/trialvmess.sh
+2025-11-02T01:58:33.366Z [INFO]: Executing script: bash ./scripts/trialvless.sh
+2025-11-02T01:58:33.728Z [WARN]: Script stderr for trialvless.sh: parse error: Invalid numeric literal at line 39, column 0
+
+2025-11-02T03:07:04.239Z [INFO]: Start or Menu command received
+2025-11-02T03:07:04.420Z [INFO]: User ID 1693261908 berhasil disimpan sebagai member
+2025-11-02T03:52:22.961Z [INFO]: Start or Menu command received
+2025-11-02T03:52:23.749Z [INFO]: User ID 7899457432 berhasil disimpan sebagai member
+2025-11-02T05:37:48.561Z [INFO]: Start or Menu command received
+2025-11-02T05:37:48.743Z [INFO]: User ID 5402572870 berhasil disimpan sebagai member
+2025-11-02T05:38:00.005Z [INFO]: Start or Menu command received
+2025-11-02T05:38:01.004Z [INFO]: User ID 1892801569 berhasil disimpan sebagai member
+2025-11-02T05:38:36.721Z [INFO]: Start or Menu command received
+2025-11-02T05:38:37.672Z [INFO]: User ID 6804431123 berhasil disimpan sebagai member
+2025-11-02T05:38:47.575Z [INFO]: Executing script: bash ./scripts/trialvmess.sh
+2025-11-02T06:16:21.489Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T06:41:24.343Z [INFO]: Start or Menu command received
+2025-11-02T06:41:25.153Z [INFO]: User ID 6796507964 berhasil disimpan sebagai member
+2025-11-02T07:05:22.662Z [INFO]: Start or Menu command received
+2025-11-02T07:39:59.498Z [INFO]: Start or Menu command received
+2025-11-02T07:40:24.093Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T07:50:00.267Z [INFO]: Start or Menu command received
+2025-11-02T07:50:01.101Z [INFO]: User ID 5573592641 berhasil disimpan sebagai member
+2025-11-02T08:22:30.064Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T08:24:20.967Z [INFO]: Start or Menu command received
+2025-11-02T08:24:21.734Z [INFO]: User ID 8219425355 berhasil disimpan sebagai member
+2025-11-02T08:32:38.359Z [ERROR]: Error saat memulai bot: Cannot read properties of undefined (reading 'id')
+2025-11-02T08:35:14.354Z [INFO]: User rate limit initialized
+2025-11-02T08:35:14.496Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-02T08:35:14.498Z [INFO]: User state initialized
+2025-11-02T08:35:14.694Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-02T08:35:14.703Z [INFO]: Server berjalan di port 50123
+2025-11-02T08:35:14.858Z [INFO]: Terhubung ke SQLite3
+2025-11-02T08:35:15.860Z [INFO]: Start or Menu command received
+2025-11-02T08:35:16.321Z [WARN]: Failed to answerCbQuery for rate limit for user 6804431123: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-02T08:35:16.646Z [WARN]: Failed to answerCbQuery for rate limit for user 6804431123: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-02T08:35:21.647Z [ERROR]: Error saat kembali ke menu utama:
+2025-11-02T08:35:55.509Z [INFO]: Start or Menu command received
+2025-11-02T09:09:14.200Z [INFO]: Start or Menu command received
+2025-11-02T09:25:04.007Z [INFO]: Start or Menu command received
+2025-11-02T09:25:15.306Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T09:26:52.623Z [INFO]: Start or Menu command received
+2025-11-02T09:27:19.732Z [INFO]: Executing script: bash ./scripts/trialvmess.sh
+2025-11-02T09:46:24.726Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T09:55:05.901Z [INFO]: Start or Menu command received
+2025-11-02T09:55:06.846Z [INFO]: User ID 2054188429 berhasil disimpan sebagai member
+2025-11-02T10:10:09.777Z [INFO]: Start or Menu command received
+2025-11-02T10:10:10.548Z [INFO]: User ID 8223130730 berhasil disimpan sebagai member
+2025-11-02T10:10:11.338Z [INFO]: Start or Menu command received
+2025-11-02T10:16:05.636Z [INFO]: Start or Menu command received
+2025-11-02T10:18:39.728Z [INFO]: Start or Menu command received
+2025-11-02T10:18:39.914Z [INFO]: User ID 669002897 berhasil disimpan sebagai member
+2025-11-02T10:19:20.954Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T10:19:26.918Z [INFO]: Executing script: bash ./scripts/trialvmess.sh
+2025-11-02T10:20:26.697Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T10:21:36.770Z [INFO]: Start or Menu command received
+2025-11-02T10:42:04.902Z [INFO]: Start or Menu command received
+2025-11-02T10:42:05.643Z [INFO]: User ID 7696416757 berhasil disimpan sebagai member
+2025-11-02T10:43:15.644Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T10:48:20.865Z [INFO]: Start or Menu command received
+2025-11-02T10:48:21.653Z [INFO]: User ID 6358011996 berhasil disimpan sebagai member
+2025-11-02T10:48:57.456Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T11:06:40.561Z [ERROR]: Error saat memulai bot: Cannot read properties of undefined (reading 'id')
+2025-11-02T12:23:12.247Z [INFO]: User rate limit initialized
+2025-11-02T12:23:12.358Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-02T12:23:12.362Z [INFO]: User state initialized
+2025-11-02T12:23:12.646Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-02T12:23:12.654Z [INFO]: Server berjalan di port 50123
+2025-11-02T12:23:12.766Z [INFO]: Terhubung ke SQLite3
+2025-11-02T12:23:13.638Z [INFO]: Start or Menu command received
+2025-11-02T12:23:13.641Z [INFO]: Start or Menu command received
+2025-11-02T12:23:13.642Z [INFO]: Start or Menu command received
+2025-11-02T12:23:13.644Z [INFO]: Start or Menu command received
+2025-11-02T12:23:13.645Z [INFO]: Start or Menu command received
+2025-11-02T12:23:13.645Z [INFO]: Start or Menu command received
+2025-11-02T12:23:14.239Z [INFO]: User ID 1010934400 berhasil disimpan sebagai member
+2025-11-02T12:23:14.457Z [INFO]: User ID 1910271421 berhasil disimpan sebagai member
+2025-11-02T12:23:19.229Z [ERROR]: Error saat memulai bot: Cannot read properties of undefined (reading 'id')
+2025-11-02T12:23:19.879Z [INFO]: User ID 7947782566 berhasil disimpan sebagai member
+2025-11-02T12:25:36.941Z [INFO]: User rate limit initialized
+2025-11-02T12:25:36.993Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-02T12:25:36.995Z [INFO]: User state initialized
+2025-11-02T12:25:37.164Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-02T12:25:37.183Z [INFO]: Server berjalan di port 50123
+2025-11-02T12:25:37.373Z [INFO]: Terhubung ke SQLite3
+2025-11-02T12:25:38.323Z [INFO]: Start or Menu command received
+2025-11-02T12:25:38.720Z [WARN]: Failed to answerCbQuery for rate limit for user 8372210994: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-02T12:25:39.075Z [WARN]: Failed to answerCbQuery for rate limit for user 7947782566: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-02T12:25:39.098Z [WARN]: Failed to answerCbQuery for rate limit for user 8372210994: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-02T12:25:44.252Z [ERROR]: Error saat memulai bot: 400: Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-11-02T12:32:39.971Z [INFO]: ✅ Bot initialized. Admin IDs: 8118068872
+2025-11-02T12:32:39.978Z [INFO]: User state initialized
+2025-11-02T12:32:40.072Z [INFO]: ✅ Penjadwalan backup harian (03:00 WIB) telah aktif.
+2025-11-02T12:32:40.083Z [INFO]: Server berjalan di port 50123
+2025-11-02T12:32:40.187Z [INFO]: Terhubung ke SQLite3
+2025-11-02T12:32:41.116Z [INFO]: Start or Menu command received
+2025-11-02T12:33:06.709Z [INFO]: Account create transaction recorded for user 8372210994, type: ssh
+2025-11-02T12:46:26.878Z [INFO]: Start or Menu command received
+2025-11-02T12:46:27.715Z [INFO]: User ID 6634381709 berhasil disimpan sebagai member
+2025-11-02T13:37:44.410Z [INFO]: Start or Menu command received
+2025-11-02T13:38:10.144Z [INFO]: Start or Menu command received
+2025-11-02T13:38:57.639Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T14:06:04.367Z [INFO]: Executing script: bash ./scripts/trialssh.sh
+2025-11-02T14:16:51.750Z [INFO]: Executing script: bash ./scripts/trialssh.sh
